@@ -1,0 +1,11 @@
+1- c) git status
+2- e) git --version
+3- d) git init
+4- c) git clone
+5- a) git log
+6- b) git add <nome-do-arquivo> && git commit -m 
+"_mensagem_"
+7- a) git push origin master
+8- a) git branch
+9- c) git fetch
+10- b) git pull
